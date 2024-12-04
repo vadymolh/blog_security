@@ -1,2 +1,0 @@
-Веб-ресурс розміщений на хостингу за посиланням - https://cyber2conn.pythonanywhere.com/,
-код сайту - https://github.com/Kikono1014/cyberinfo
